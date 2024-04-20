@@ -1,0 +1,37 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    padding:50px ;
+    background-color: rgb(40, 207, 212);
+    margin-bottom: 10px;
+}
+
+header a{
+    background-color: white;
+    border-radius: 7px;
+    text-decoration: none;
+    padding: 10px;
+}
+
+header, a:hover{
+    text-decoration:none ;
+    border-radius: 7px;
+}
+
+nav a{
+    color:black;
+    margin: 10px;
+}
+
+h1{
+    text-align:center;
+    color: cyan;
+    font-size: 70px;
+}
+
+p{
+    font-size: 20px;
+    margin-left: 35px;
+}
